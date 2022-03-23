@@ -1,5 +1,3 @@
-from Robots_VS_Dinosaurs.dinosaur import Dinosaur
-from Robots_VS_Dinosaurs.robot import Robot
 from fleet import Fleet
 from herd import Herd
 

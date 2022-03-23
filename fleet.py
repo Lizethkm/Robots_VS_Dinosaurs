@@ -5,4 +5,8 @@ class Fleet:
         self.robots_list= []
 
     def create_fleet(self):
-        pass
+        self.robots_list.append(first_robot)
+
+
+first_robot= Robot('Bender')
+
